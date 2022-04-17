@@ -18,3 +18,5 @@
     Implement Front End with Pagination (and filtering)
 
     Perhaps Vue.js with PrimeVue with LazyLoading
+
+    Write some tests
